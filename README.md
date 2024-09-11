@@ -109,5 +109,5 @@ The project directory is structured as follows:
 - **vite.config.js**: Vite configuration.
 
 This layout explains the key files and directories in your project. You can include this in your `README.md` file to help others understand the structure.
-
-> If you want to add or delete or update questions use quizdata.js.
+# Note
+> To add or delete or update questions check the quizdata.js file.

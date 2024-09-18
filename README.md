@@ -17,7 +17,8 @@ The Dior Quiz App is built using React, Vite, and Tailwind CSS, designed to prov
 - **React**: For building the interactive user interface.
 - **Vite**: For fast development and build performance.
 - **Tailwind CSS**: For responsive and modern styling.
-
+- **Node JS**: 20.x.x
+  
 ## How It Works
 
 1. **Start the Quiz**: Begin by answering the 5 questions about Dior fragrances.
@@ -26,11 +27,20 @@ The Dior Quiz App is built using React, Vite, and Tailwind CSS, designed to prov
 
 ## Installation
 
+> Before installation make sure you've the exact version of Node installed in your system
+Required Node Version `20.x.x` 
+
 To run the Dior Quiz App locally, follow these steps:
 
 1. Clone the repository:
    ```
+   # HTTPS
    git clone https://github.com/iamqasimali/dior-quiz.git
+
+   #OR
+   # BY Using SSH
+   git clone git@github.com:iamqasimali/dior-quiz.git
+
    ```
 2. Navigate to the project directory:
    ```
